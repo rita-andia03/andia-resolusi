@@ -1,6 +1,7 @@
 ANDIA RESOLUSI
-- konsisten belajar ngoding setiap hari minimal 3jam
+- konsisten belajar otodidak
 - belajar html
 - belajar css
 - belajar java script
 - belajar php
+- belajar bootsraip
